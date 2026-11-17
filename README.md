@@ -1,5 +1,10 @@
 # Token Radar — build the best token launch radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/ssllxx1/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/ssllxx1/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+
 A radar for pre-token protocols: which protocol is worth farming next, what a
 token would be worth if the protocol kept its record, and what to do about it.
 It reads one sealed snapshot of the protocol universe (DefiLlama, 2026-11-14,
